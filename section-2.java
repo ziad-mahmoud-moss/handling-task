@@ -27,7 +27,7 @@ t.start();
 
 ------------------------------------------------------------------
 
-// The task (Runnable) is executed within a new thread that prints "Hello from MyGirl"
+// The task (Runnable) is executed within a new thread that prints "Hello from MyBest"
 
 public class MyTask implements Runnable {
 
@@ -35,7 +35,7 @@ public class MyTask implements Runnable {
 
 public void run() {
 
-System.out.println("Hello from MyGirl . whera are yuuu ??");
+System.out.println("Hello from MyBest . whera are yuuu ??");
 
 }
 
